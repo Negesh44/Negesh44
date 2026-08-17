@@ -1,223 +1,164 @@
 <div align="center">
 
-# 👋 Hey, I'm Negesh Bala
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Negesh+Bala+M;AI+%2F+ML+Developer;Full+Stack+Engineer;Building+practical+software+with+AI" alt="Typing SVG" />
 
-### AI/ML Developer • Full Stack Developer • Computer Science Engineer
+<br/>
 
-<p>
-  <a href="https://github.com/Negesh44">
-    <img src="https://img.shields.io/badge/GitHub-Negesh44-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
-> Building practical software with AI, Java, Python and modern web technologies.
+[![GitHub](https://img.shields.io/badge/GitHub-Negesh44-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Negesh44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
----
+<br/>
 
-## 🚀 GitHub Overview
+## 🧭 About Me
 
-<div align="center">
+I'm a **Computer Science Engineer** focused on building practical, real-world software at the intersection of **Artificial Intelligence** and **full-stack development**. I enjoy turning complex problems into clean, working systems — from AI-assisted tools to production-style backends.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Negesh44&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=22c55e&icon_color=22c55e&text_color=ffffff" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Negesh44&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=22c55e&text_color=ffffff" height="180"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Negesh44&bg_color=00000000&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
+```yaml
+role:        AI/ML Developer & Full Stack Engineer
+focus:       Applied AI, Backend Systems, Developer Tooling
+currently:   Exploring LLM-powered applications and secure systems design
+learning:    Advanced ML pipelines, distributed systems, cloud deployment
+fun_fact:    I'd rather debug a race condition than write documentation ☕
+```
 
 ---
 
-## 🔥 Contribution Streak
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Negesh44&theme=dark&hide_border=true&background=00000000&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+**Languages**
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript" />
 
----
+**Web & Frontend**
 
-# 🧠 Core Technologies
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,vite,tailwind" />
 
-<div align="center">
-
-### Programming
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript" />
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,vite" />
-
-### Backend & Database
+**Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=spring,mysql,postgresql,mongodb" />
 
-### AI / ML
+**AI / Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
 
-### Tools
+**Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
 
 </div>
 
 ---
 
-# 📊 Language Distribution
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Negesh44&langs_count=8&layout=donut&hide_border=true&theme=github_dark&bg_color=00000000&title_color=22c55e&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=Negesh44&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Negesh44&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Negesh44&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" height="170"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Negesh44&bg_color=0D1117&color=22C55E&line=22C55E&point=C9D1D9&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🏫 CampusCareAI
-
-AI-powered college issue reporting platform.
-
-**Tech**
+### 🏫 [CampusCareAI](https://github.com/Negesh44/CampusCare-AI)
+AI-powered platform for reporting and resolving campus issues efficiently.
 
 `React` `Java` `Spring Boot` `MySQL`
 
-<a href="https://github.com/Negesh44/CampusCare-AI">
-View Repository →
-</a>
-
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🔐 Classified Document Integrity
-
-Secure document integrity and clearance verification platform.
-
-**Tech**
+### 🔐 [Classified Document Integrity](https://github.com/Negesh44/Classified-Document-Integrity)
+Secure platform for verifying document integrity and access clearance using cryptographic hashing.
 
 `Java` `Security` `SHA-256`
 
-<a href="https://github.com/Negesh44/Classified-Document-Integrity">
-View Repository →
-</a>
-
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🤖 OpenCode AI Suite
-
-AI-powered developer tooling and experiments.
-
-**Tech**
+### 🤖 [OpenCode AI Suite](https://github.com/Negesh44/OpenCode-AI-Suite)
+A suite of AI-powered developer tools and experiments to streamline coding workflows.
 
 `Java` `AI` `Developer Tools`
 
-<a href="https://github.com/Negesh44/OpenCode-AI-Suite">
-View Repository →
-</a>
-
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 📈 Trading Copilot
-
-AI-assisted market analysis project.
-
-**Tech**
+### 📈 [Trading Copilot](https://github.com/Negesh44/trading-copilot)
+An AI-assisted market analysis tool for exploring and interpreting trading data.
 
 `Python` `AI` `Data Analysis`
 
-<a href="https://github.com/Negesh44/trading-copilot">
-View Repository →
-</a>
-
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🎓 [Study Buddy Chatbot](https://github.com/Negesh44/study-buddy-chatbot)
+A conversational assistant designed to help students with study-related queries.
 
-### 🎓 Study Buddy Chatbot
-
-Student-focused conversational assistant.
-
-**Tech**
-
-`Java` `NLP` `Chatbot`
-
-<a href="https://github.com/Negesh44/study-buddy-chatbot">
-View Repository →
-</a>
+`JavaScript` `NLP` `Chatbot`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🧠 [Bright Minds Bot](https://github.com/Negesh44/bright-minds-bot)
+A conversational AI project exploring intelligent, context-aware dialogue.
 
-### 🧠 Bright Minds Bot
-
-Conversational AI project.
-
-**Tech**
-
-`Python` `AI`
-
-<a href="https://github.com/Negesh44/bright-minds-bot">
-View Repository →
-</a>
+`TypeScript` `AI`
 
 </td>
-
 </tr>
 </table>
 
+<div align="center">
+<sub>📌 Pin your best repos on your <a href="https://github.com/Negesh44">GitHub profile</a> so they appear at the top for visitors.</sub>
+</div>
+
 ---
 
-# 💻 What I'm Working On
+## 🎯 What I'm Focused On
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  🤖 Artificial Intelligence & Machine Learning       │
-│                                                      │
-│  🌐 Full Stack Development                           │
-│                                                      │
-│  ☕ Java & Spring Boot                                │
-│                                                      │
-│  🐍 Python & AI Applications                          │
-│                                                      │
-│  🗄️ Databases & Backend Systems                      │
-│                                                      │
-│  🧩 Data Structures & Algorithms                     │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+- 🤖 Artificial Intelligence & Machine Learning applications
+- 🌐 Full-stack development with modern frameworks
+- ☕ Backend systems in Java & Spring Boot
+- 🐍 Python for AI-driven applications
+- 🗄️ Database design & backend architecture
+- 🧩 Strengthening core Data Structures & Algorithms
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Negesh44)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Negesh44&label=Profile+Views&color=22C55E&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+<div align="center">
+<sub>⭐️ Thanks for stopping by — feel free to explore my repositories and reach out!</sub>
+</div>
